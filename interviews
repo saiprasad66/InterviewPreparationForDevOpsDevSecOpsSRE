@@ -1,0 +1,25 @@
+qualitykios: Honestly answers all questions couldn't get offer due to budget
+Accenture: cleared 1 interview but 2 interview was not scheduled and got rejection mail
+Epicor: Rejected
+Eastman: 
+
+
+optum: Rejected
+
+Asked me write GitHub action pipeline like 10 apps (implememnted but got quick reverse question how do you handle runner (it can casue dependency issues but what idea given resuable workflows)
+
+my pods is not scheduling how will you troubleshoot
+
+cicd pipeline in your application
+
+terraform Arm upgrades how will handle what checks you do before and after(like storage account ,)
+
+Aure open Ai observability setup
+
+what happens in docker why we use it 
+
+when pod is trying to  access frequently read data from storage account and it has lots of data 
+
+how do you governance AI model
+
+Aks how do you perform upgrade (what checks you do)
