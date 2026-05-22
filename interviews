@@ -8,7 +8,7 @@ optum: Rejected
 
 Asked me write GitHub action pipeline like 10 apps (implememnted but got quick reverse question how do you handle runner (it can casue dependency issues but what idea given resuable workflows)
 
-my pods is not scheduling how will you troubleshoot
+ pods is not scheduling how will you troubleshoot
 
 cicd pipeline in your application
 
@@ -23,3 +23,17 @@ when pod is trying to  access frequently read data from storage account and it h
 how do you governance AI model
 
 Aks how do you perform upgrade (what checks you do)
+
+
+SimCrop:
+
+what is  PSA in kubenrets
+what is toil,sls,sli,slo,error rate
+seven principles of sre
+gloden signals of sre
+what is disater Recovery what 2 factors influence DR
+what is monitoring vs observability
+How you prioritize your tasks when multiple requests are coming?
+About company
+what is your typical day to day upgrades
+where do you want to see yourself as professional person what your goals
