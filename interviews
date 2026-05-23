@@ -1,32 +1,24 @@
-qualitykios: Honestly answers all questions couldn't get offer due to budget
-Accenture: cleared 1 interview but 2 interview was not scheduled and got rejection mail
-Epicor: Rejected
-Eastman: 
-
-
-optum: Rejected
-
+qualitykios:
+(Dynatarce Admin/configuration L2) Honestly answers all questions couldn't get offer due to budget
+Accenture(DevSecOps Engineer): 
+cleared 1 interview but 2 interview was not scheduled and got rejection mail
+Epicor:(cloud Relaibility Engineer) Rejected
+Eastman:  No Response
+optum: Rejected ( DevOps Engineer)
 Asked me write GitHub action pipeline like 10 apps (implememnted but got quick reverse question how do you handle runner (it can casue dependency issues but what idea given resuable workflows)
-
- pods is not scheduling how will you troubleshoot
-
+pods is not scheduling how will you troubleshoot
 cicd pipeline in your application
-
 terraform Arm upgrades how will handle what checks you do before and after(like storage account ,)
-
 Aure open Ai observability setup
-
 what happens in docker why we use it 
-
 when pod is trying to  access frequently read data from storage account and it has lots of data 
-
 how do you governance AI model
-
 Aks how do you perform upgrade (what checks you do)
 
+--------------------------------------------------------------------------------------------------------------------
 
-SimCrop:
-
+SimCrop: ( Senior SRE)
+(1st Round)
 what is  PSA in kubenrets
 what is toil,sls,sli,slo,error rate
 seven principles of sre
@@ -35,5 +27,46 @@ what is disater Recovery what 2 factors influence DR
 what is monitoring vs observability
 How you prioritize your tasks when multiple requests are coming?
 About company
-what is your typical day to day upgrades
+what is your typical day to day Activities
+why we need dry concepts
 where do you want to see yourself as professional person what your goals
+Written live exam during Interview MCQ(20 questions)
+
+(2nd round)
+
+---------------------------------------------------------------------------------------------------------------------
+EY:(DevSecops & AI Enginner)
+1st Round:
+Introduction
+what is chunking?
+why Embedding needed?
+what is RAG why it needed?
+what purpose of vector DB why exactly it need?
+have you worked on open Ai model ?
+In Azure devops suppose if we want to add approval gate how to do that ?
+why we need create defore destroy, depends on life cycle arguments?
+how do you create terraform for 5 vms(foreach and count)?
+what is workload identity what problem it sloves compared to service conncetion?
+what branch stargety we choose , in ADO pipeline how can make pipeline to target required branch?
+Asked me output of some pyhton code?
+Write multi stage Dockerfile why it needed ?
+Write backend configuration  file for terraform?
+your projects dev have access to add keys & values in values.yml/heml charats as devsecops Engineer how will you restrict that permission
+that you cannot add random values?
+in terraform one block always changes every time when we  do terraform apply how do we avoid that chages?
+How do you mentions Environment variables & secrets in Github actions?
+
+
+2nd Round:
+
+About Role & project?
+Have you delivered anything independetly end to end?
+what is MCP how it can helps
+How do you implement Kubernetes Monitoring using Dynatrace
+what sort of metrics you focus & how do sagregate those metrics are coming from this application?
+you are running multi jobs in Ado pipeline on one linux agent or other agents if we want to utilize one job o/p in other how we gonna achieve it?
+Difference b/w chef and Ansible
+you have many tools how do you choose your tools like Azure devops github action jenkins, when what tool you choose ?
+
+
+
