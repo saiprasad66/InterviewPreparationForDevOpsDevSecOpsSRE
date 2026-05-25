@@ -2,8 +2,26 @@ qualitykios:
 (Dynatarce Admin/configuration L2) Honestly answers all questions couldn't get offer due to budget
 Accenture(DevSecOps Engineer): 
 cleared 1 interview but 2 interview was not scheduled and got rejection mail
+------------------------------------------------------------------------------------------------------------------------------------
 Epicor:(cloud Relaibility Engineer) Rejected
-Eastman:  No Response
+
+what is diffential backup and full backup?
+what happens when you run terraform init?
+what are services you know in Azure?
+you done cloud cost optimization right what was existing resources size / what size you downgraded?
+what was the manullay process for Adf before you implemented CICD?
+Write powershell script to see current c drive space?
+write azure terraform resource configuration?
+--------------------------------------------------------------------------------------------------------------------------
+Eastman:  No Response (MLOps Engineer)
+
+How do you otimize model precision?
+what issues you have seen when managing 1000+servers using chef?
+new team memner joined he made changes to terraofrm code when was applying he found out that terraofrm state configuring to local but there was remote state configured?
+we have hpa but our nodes are not coming up why?
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 optum: Rejected ( DevOps Engineer)
 Asked me write GitHub action pipeline like 10 apps (implememnted but got quick reverse question how do you handle runner (it can casue dependency issues but what idea given resuable workflows)
 pods is not scheduling how will you troubleshoot
@@ -18,7 +36,7 @@ Aks how do you perform upgrade (what checks you do)
 --------------------------------------------------------------------------------------------------------------------
 
 SimCrop: ( Senior SRE)
-(1st Round)
+(1st Round) cleared
 what is  PSA in kubenrets
 what is toil,sls,sli,slo,error rate
 seven principles of sre
@@ -32,10 +50,10 @@ why we need dry concepts
 where do you want to see yourself as professional person what your goals
 Written live exam during Interview MCQ(20 questions)
 
-(2nd round)
+(2nd round) cleared
 
 ---------------------------------------------------------------------------------------------------------------------
-EY:(DevSecops & AI Enginner)
+EY:(DevSecops & AI Enginner) Cleared
 1st Round:
 Introduction
 what is chunking?
@@ -55,9 +73,10 @@ your projects dev have access to add keys & values in values.yml/heml charats as
 that you cannot add random values?
 in terraform one block always changes every time when we  do terraform apply how do we avoid that chages?
 How do you mentions Environment variables & secrets in Github actions?
+what is dependency cycle in terraform?
 
 
-2nd Round:
+2nd Round: cleared
 
 About Role & project?
 Have you delivered anything independetly end to end?
@@ -67,6 +86,8 @@ what sort of metrics you focus & how do sagregate those metrics are coming from 
 you are running multi jobs in Ado pipeline on one linux agent or other agents if we want to utilize one job o/p in other how we gonna achieve it?
 Difference b/w chef and Ansible
 you have many tools how do you choose your tools like Azure devops github action jenkins, when what tool you choose ?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
