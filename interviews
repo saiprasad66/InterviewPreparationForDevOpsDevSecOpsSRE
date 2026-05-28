@@ -69,7 +69,17 @@ suppose a team trouble causing a trouble to let you know how you will handle thi
 
 
 3rd round: (cleared)
-1.what is 
+1.How do your Governace the AI model when you are working on AI Assited incidient resolution
+2.What is region, Availability zones , Availability sets
+3.what is state file why its needed
+4. what is incremental and complete Arm deployment
+5.If Api latency is suddenly increasing How you will be troubleshooting
+6. write kql query to get error from the last 24 hours
+7.what is difference b/w Azure Monitor adn Application insights
+8.How you are doing the drift detetction
+9.why a request is getting high latency how you will identify where latency happens?
+10. Have you owned any end to end delivery ? what was it ? How much impact you created on it?
+11. 
 
 ---------------------------------------------------------------------------------------------------------------------
 EY:(DevSecops & AI Enginner) Cleared
