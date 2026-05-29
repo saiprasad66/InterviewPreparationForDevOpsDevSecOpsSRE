@@ -78,8 +78,14 @@ suppose a team trouble causing a trouble to let you know how you will handle thi
 7.what is difference b/w Azure Monitor adn Application insights
 8.How you are doing the drift detetction
 9.why a request is getting high latency how you will identify where latency happens?
-10. Have you owned any end to end delivery ? what was it ? How much impact you created on it?
-11. 
+10.Have you owned any end to end delivery ? what was it ? How much impact you created on it?
+11. How do you keep up your self related to technologies
+12. what was the road block you faced when you are working on something ? And how you overcome it?
+13.Design a IAC( terraofrm ) like Azure function should read from the Azure service bus and it should write to COSmosDb 
+14. what are some key terms in Github Action workflows what components it has 
+15. Design a terraform pipeline  in Github Actions for applying resources in Azure How would add approvals for before create resources
+16. while running terraofrm pipeline  in github actions it was failing intermittently how will you troubleshoot
+17. what is Azure function 
 
 ---------------------------------------------------------------------------------------------------------------------
 EY:(DevSecops & AI Enginner) Cleared
